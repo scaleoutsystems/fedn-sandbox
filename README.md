@@ -17,6 +17,6 @@ If you want to connect the client from a different computer, you would have to c
 
 Open the API_Example.ipynb notebook and run the first cells, setting the compute package and the seed model. Then start a client with:
 ```
-fedn start client -in client.yaml
+fedn client start -in client.yaml
 ```
 Once the client is running, you can proceed with the remaining steps in the notebook to start a session and plot the results.
